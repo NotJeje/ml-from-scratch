@@ -20,4 +20,9 @@ by implementing core algorithms without using high-level ML libraries.
 
 ## Project Status
 
-🚧 Currently learning and building.
+✅ M1: Linear Regression complete
+
+- Cost function
+- Gradient descent
+- Convergence plot
+- pytest tests
